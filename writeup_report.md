@@ -45,7 +45,7 @@ My project includes the following files:
 * utils is the folder for the python files like thresholds.py, etc...
 * output_images folder for all the output images for the images in camera_cal and test_images folders.
 * project_video_result.mp4 showing the final result for lane finding
-* report.html is the html format of Advanced_Lane_Finding.ipynb
+* report.pdf is the pdf file of Advanced_Lane_Finding.ipynb
 * Other default files in the project repository 
 
 ---
