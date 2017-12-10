@@ -186,3 +186,4 @@ There are many things that I could improve this projects like:
 * Using different transforms techniques (colors, gradients, etc...) to covert an image to its binary image and compare the performance on the algorithms.
 * Experiment with different threshold values, color spaces, its combinations, etc...
 * Improve the perspective transform to rectify binay image by applying different techniques
+* Find solutions for challenge videos
