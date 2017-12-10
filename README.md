@@ -182,7 +182,8 @@ Here's a [link to my video result](./project_video_result.mp4). Or you can watch
 
 The final `lane_finding()` funtion works pretty well in the project_video but show limited results in the challenge_video and harder_challenge_video. It may be due to different light conditions, the huge curvatures or speed...So I need to find further advanced techniques to overcome these causes.
 
-There are many things that I could improve this projects like:
+There are many things that I could improve this project like:
 * Using different transforms techniques (colors, gradients, etc...) to covert an image to its binary image and compare the performance on the algorithms.
 * Experiment with different threshold values, color spaces, its combinations, etc...
 * Improve the perspective transform to rectify binay image by applying different techniques
+* Find solutions for challenge videos
