@@ -4,7 +4,8 @@
 
 ## Writeup Report / README
 
-This is the project 4: Advanced Lane Finding in Self-Driving Car Nanodegree course by Udacity. The goal is to write a software pipeline to identify the lane boundaries in a video
+This is the project 4: Advanced Lane Finding in Self-Driving Car Nanodegree course by Udacity. The goal is to write a software pipeline to identify the lane boundaries in a video.
+
 For the original assignments can be found in [the project repository](https://github.com/udacity/CarND-Advanced-Lane-Lines).
 
 ---
@@ -172,7 +173,8 @@ The I applied the funtion for project video in step #10 and see it gets a very g
 #### Please check my output video for the project video as below:
 
 Here's a [link to my video result](./project_video_result.mp4)
-![alt text][video1]
+
+[![Alt text](http://img.youtube.com/vi/LvZqJqIDDBo/0.jpg)](https://youtu.be/LvZqJqIDDBo)
 
 ---
 
