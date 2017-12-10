@@ -4,7 +4,8 @@
 
 ## Writeup Report / README
 
-This is the project 4: Advanced Lane Finding in Self-Driving Car Nanodegree course by Udacity. The goal is to write a software pipeline to identify the lane boundaries in a video
+This is the project 4: Advanced Lane Finding in Self-Driving Car Nanodegree course by Udacity. The goal is to write a software pipeline to identify the lane boundaries in a video.
+
 For the original assignments can be found in [the project repository](https://github.com/udacity/CarND-Advanced-Lane-Lines).
 
 ---
@@ -31,7 +32,7 @@ The goals / steps of this project are the following:
 [image5]: ./output_images/lane_boundary.png "Radius Curvature"
 [image6]: ./output_images/radius_curvature_formula.png "Radius Curvature Formula"
 [image7]: ./output_images/curvature.png "Curvature"
-[image8]: ./output_images/warpback.png "Warp the detected lane boundaries back onto the original image"
+[image8]: ./output_images/warpBack.png "Warp the detected lane boundaries back onto the original image"
 [image9]: ./output_images/writetext.png "Display Curvature and Vehicle Position"
 
 [video1]: ./project_video_result.mp4 "Video"
@@ -171,14 +172,14 @@ The I applied the funtion for project video in step #10 and see it gets a very g
 
 #### Please check my output video for the project video as below:
 
-Here's a [link to my video result](./project_video_result.mp4)
-![alt text][video1]
+Here's a [link to my video result](./project_video_result.mp4). Or you can watch it by clicking the below thumbnail.
+
+[![Alt text](http://img.youtube.com/vi/LvZqJqIDDBo/0.jpg)](https://youtu.be/LvZqJqIDDBo)
 
 ---
 
 ### Discussion
 
-#### 1. Briefly discuss any problems / issues you faced in your implementation of this project.  Where will your pipeline likely fail?  What could you do to make it more robust?
 The final `lane_finding()` funtion works pretty well in the project_video but show limited results in the challenge_video and harder_challenge_video. It may be due to different light conditions, the huge curvatures or speed...So I need to find further advanced techniques to overcome these causes.
 
 There are many things that I could improve this projects like:
