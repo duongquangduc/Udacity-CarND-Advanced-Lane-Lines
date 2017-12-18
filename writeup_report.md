@@ -174,7 +174,7 @@ The I applied the funtion for project video in step #10 and see it gets a very g
 
 Here's a [link to my video result](./project_video_result.mp4). Or you can watch it by clicking the below thumbnail.
 
-[![Alt text](http://img.youtube.com/vi/LvZqJqIDDBo/0.jpg)](https://youtu.be/LvZqJqIDDBo)
+[![Alt text](http://img.youtube.com/vi/kjy1slZQOAY/0.jpg)](https://youtu.be/kjy1slZQOAY)
 
 ---
 
